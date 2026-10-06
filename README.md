@@ -19,14 +19,14 @@ ROC/AUC evaluation
 Confusion Matrix 
 
 ## Tools
-#R
-#RStudio
-#Excel
+-R
+-RStudio
+-Excel
 
 ## Key Findings
 The analysis showed that predictive performance was limited when variables strongly related to customer inactivity were excluded to reduce the risk of data leakage. 
 This highlights the importance of feature selection and data quality when developing churn prediction models.
 
 ## Files 
-Churn_analysis_BI.R - R code for data preparation, analysis and modeling 
-Customer_churn_dataset.csv - synthetic dataset used for the analysis 
+-Churn_analysis_BI.R - R code for data preparation, analysis and modeling 
+-Customer_churn_dataset.csv - synthetic dataset used for the analysis 
