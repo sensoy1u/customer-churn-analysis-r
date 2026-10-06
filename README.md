@@ -19,9 +19,9 @@ ROC/AUC evaluation
 Confusion Matrix 
 
 ## Tools
-R
-RStudio
-Excel
+#R
+#RStudio
+#Excel
 
 ## Key Findings
 The analysis showed that predictive performance was limited when variables strongly related to customer inactivity were excluded to reduce the risk of data leakage. 
