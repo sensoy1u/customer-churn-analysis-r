@@ -1,12 +1,12 @@
-# customer-churn-analysis-r
+# Customer Churn Analysis in R
 
 ## Project Overview
-This project analyzes customer churn in the context of a simulated music streaming service. The Data was to identify factors associated with customer churn and to evaluate different predictive models. 
+This project analyses customer churn in the context of a simulated music streaming service. The objective was to identify factors associated with customer churn and to evaluate different predictive models. 
 The project includes data preprocessing, exploratory data analysis (EDA) and machine learning models for churn prediction. 
 
 ## Dataset
 The analysis is based on a synthetic customer dataset containing demographic, behavioral and subscription-related variables.
-The target variable indicate whether a customer churned. 
+The target variable indicates whether a customer churned. 
 
 ## Methods
 The following methods were used:
